@@ -129,3 +129,5 @@ public class task3 {
             Arrays.sort(arr,new PersonComparator());
             return arr;
         }
+    }
+}
